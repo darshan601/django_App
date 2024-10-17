@@ -2,13 +2,13 @@
 
 Created a Django App StudyBuddy which is similar to Discord.
 
-Create a virtual environment :
+#Create a virtual environment :
 
-# Let's install virtualenv first
+Let's install virtualenv first
 
 pip install virtualenv
 
-# Then we create our virtual environment
+Then we create our virtual environment
 virtualenv envname
 
 
@@ -26,10 +26,12 @@ Running the App
 --> To run the App, we use :
 
 python manage.py runserver
+
+
 ⚠ Then, the development server will be started at http://127.0.0.1:8000/
 
 
-pls find it working here:
+#pls find it working here:
 https://darshanmistry11.pythonanywhere.com/
 
 reference:
